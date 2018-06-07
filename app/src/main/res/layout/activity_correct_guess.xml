@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.androi
-d.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.mcandroid.higherorlower.CorrectGuessActivity"
+    tools:context="com.example.gabriel.lesson3androidbootcamp.CorrectGuessActivity"
     android:background="#485ECE">
 
     <ImageView
@@ -18,7 +17,7 @@ d.com/apk/res/android"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/party_popper_emoji" />
+        app:srcCompat="@drawable/party_popper_emoji_szo1o3"/>
 
     <TextView
         android:id="@+id/lblCorrect"

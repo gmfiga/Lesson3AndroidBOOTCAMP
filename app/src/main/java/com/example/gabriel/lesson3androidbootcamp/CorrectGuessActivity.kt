@@ -23,7 +23,7 @@ class CorrectGuessActivity : AppCompatActivity() {
     }
 
     fun exitGame(){
-        btnExit.setOnClickListene{
+        btnExit.setOnClickListener{
             this.finishAffinity()
         }
     }
